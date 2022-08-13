@@ -1,0 +1,94 @@
+﻿,residency,withdraw,studentAthlete,quarantine,quarantineTimes,academicYear,credits,maskEffective,safeInPersonClasses,topicsAdequatelyCovered,respectedFreedoms,caredMentalHealth,returnToPlaySafety,adequateResponse,residency_Dummy,withdraw_Dummy,studentAthlete_Dummy,quarantine_Dummy,quarantineTimes_Dummy,academicYear_Dummy,credits_Dummy,safeInPersonClasses_Dummy,topicsAdequatelyCovered_Dummy,respectedFreedoms_Dummy,caredMentalHealth_Dummy,returnToPlaySafety_Dummy,adequateResponse_Dummy,overallEXPScore
+67,Commuter from home,No,No,No,0,Sophomore,Twelve-eighteen,1,Strongly Disagree,Neutral,Neutral,Strongly Disagree,Neutral,No,3,0,0,0,1,2,2,1,3,3,1,3,0,11
+51,On-campus resident,Yes,No,Yes,3,Senior,Twelve-eighteen,4,Agree,Strongly Disagree,Neutral,Strongly Disagree,Neutral,Yes,1,1,0,1,3,4,2,4,1,3,1,3,1,12
+82,On-campus resident,No,No,Yes,3,Sophomore,Twelve-eighteen,4,Disagree,Strongly Disagree,Neutral,Neutral,Neutral,No,1,0,0,1,3,2,2,2,1,3,3,3,0,12
+36,On-campus resident,No,No,Yes,One-two,Sophomore,Twelve-eighteen,3,Agree,Disagree,Neutral,Disagree,Neutral,Yes,1,0,0,1,2,2,2,4,2,3,2,3,1,14
+40,On-campus resident,Yes,No,Yes,One-two,Sophomore,Twelve-eighteen,5,Neutral,Disagree,Agree,Disagree,Agree,No,1,1,0,1,2,2,2,3,2,4,2,4,0,15
+41,On-campus resident,No,No,Yes,One-two,Sophomore,Twelve-eighteen,4,Disagree,Agree,Agree,Disagree,Neutral,Yes,1,0,0,1,2,2,2,2,4,4,2,3,1,15
+85,On-campus resident,Yes,No,Yes,One-two,Junior,More than 18,4,Agree,Neutral,Disagree,Strongly Disagree,Strongly Agree,Yes,1,1,0,1,2,3,3,4,3,2,1,5,1,15
+37,On-campus resident,No,No,No,0,Junior,Twelve-eighteen,4,Neutral,Neutral,Strongly Agree,Disagree,Neutral,Yes,1,0,0,0,1,3,2,3,3,5,2,3,1,16
+60,On-campus resident,No,No,No,0,First Year,Twelve-eighteen,1,Agree,Agree,Neutral,Agree,Strongly Disagree,Yes,1,0,0,0,1,1,2,4,4,3,4,1,1,16
+61,On-campus resident,Yes,No,No,0,First Year,Twelve-eighteen,4,Agree,Agree,Disagree,Disagree,Agree,Yes,1,1,0,0,1,1,2,4,4,2,2,4,1,16
+63,On-campus resident,No,No,Yes,3,First Year,Twelve-eighteen,3,Agree,Agree,Strongly Disagree,Neutral,Agree,Yes,1,0,0,1,3,1,2,4,4,1,3,4,1,16
+83,On-campus resident,No,No,Yes,One-two,Sophomore,Twelve-eighteen,1,Strongly Agree,Agree,Disagree,Neutral,Disagree,No,1,0,0,1,2,2,2,5,4,2,3,2,0,16
+66,Commuter from home,No,No,No,0,Junior,Twelve-eighteen,3,Neutral,Agree,Neutral,Agree,Neutral,Yes,3,0,0,0,1,3,2,3,4,3,4,3,1,17
+64,Commuter from home,No,No,Yes,One-two,Senior,Less than 12,1,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Yes,3,0,0,1,2,4,1,5,5,1,5,1,1,17
+74,On-campus resident,No,No,Yes,One-two,Senior,Twelve-eighteen,5,Disagree,Neutral,Strongly Agree,Neutral,Agree,Yes,1,0,0,1,2,4,2,2,3,5,3,4,1,17
+49,On-campus resident,No,No,Yes,One-two,First Year,Twelve-eighteen,4,Agree,Neutral,Agree,Agree,Neutral,Yes,1,0,0,1,2,1,2,4,3,4,4,3,1,18
+50,On-campus resident,No,No,Yes,One-two,First Year,Twelve-eighteen,4,Agree,Neutral,Agree,Agree,Neutral,Yes,1,0,0,1,2,1,2,4,3,4,4,3,1,18
+81,Commuter from home,No,No,No,0,Junior,Twelve-eighteen,5,Agree,Agree,Agree,Agree,Neutral,Yes,3,0,0,0,1,3,2,4,4,4,4,3,1,19
+47,On-campus resident,No,No,Yes,One-two,First Year,Twelve-eighteen,3,Strongly Agree,Neutral,Agree,Neutral,Agree,Yes,1,0,0,1,2,1,2,5,3,4,3,4,1,19
+57,On-campus resident,No,No,Yes,One-two,Junior,Twelve-eighteen,4,Agree,Agree,Agree,Agree,Neutral,Yes,1,0,0,1,2,3,2,4,4,4,4,3,1,19
+38,On-campus resident,No,No,No,0,Junior,Twelve-eighteen,4,Agree,Strongly Agree,Strongly Agree,Neutral,Neutral,Yes,1,0,0,0,1,3,2,4,5,5,3,3,1,20
+46,On-campus resident,No,No,No,0,Junior,Twelve-eighteen,4,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Yes,1,0,0,0,1,3,2,5,5,5,4,5,1,20
+48,On-campus resident,No,No,No,0,First Year,Twelve-eighteen,4,Strongly Agree,Agree,Strongly Agree,Neutral,Neutral,Yes,1,0,0,0,1,1,2,5,4,5,3,3,1,20
+89,On-campus resident,No,No,No,0,Senior,Twelve-eighteen,4,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neutral,Yes,1,0,0,0,1,4,2,5,5,5,2,3,1,20
+62,On-campus resident,No,No,Yes,One-two,First Year,Twelve-eighteen,5,Agree,Agree,Agree,Strongly Agree,Neutral,Yes,1,0,0,1,2,1,2,4,4,4,5,3,1,20
+39,On-campus resident,No,No,No,0,Senior,Twelve-eighteen,4,Agree,Strongly Agree,Neutral,Agree,Strongly Agree,Yes,1,0,0,0,1,4,2,4,5,3,4,5,1,21
+72,Commuter from home,Yes,No,No,0,Sophomore,Twelve-eighteen,4,Strongly Agree,Strongly Agree,Agree,Agree,Neutral,Yes,3,1,0,0,1,2,2,5,5,4,4,3,1,21
+76,Commuter from home,No,No,No,0,Senior,Twelve-eighteen,5,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Yes,3,0,0,0,1,4,2,5,5,5,4,2,1,21
+54,On-campus resident,No,No,Yes,One-two,First Year,Twelve-eighteen,4,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neutral,Yes,1,0,0,1,2,1,2,5,4,5,5,3,1,22
+69,On-campus resident,No,No,Yes,One-two,First Year,Twelve-eighteen,5,Agree,Strongly Agree,Strongly Agree,Agree,Agree,Yes,1,0,0,1,2,1,2,4,5,5,4,4,1,22
+55,On-campus resident,No,No,No,0,First Year,Twelve-eighteen,4,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Yes,1,0,0,0,1,1,2,5,4,5,5,4,1,23
+73,Commuter from home,No,No,No,0,First Year,Twelve-eighteen,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Yes,3,0,0,0,1,1,2,5,5,5,5,3,1,23
+33,On-campus resident,No,No,Yes,One-two,Sophomore,More than 18,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Yes,1,0,0,1,2,2,3,5,5,5,5,3,1,23
+12,Off-campus resident,No,Yes,Yes,One-two,Junior,Twelve-eighteen,2,Neutral,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,,2,0,1,1,2,3,2,3,1,1,1,1,,7
+68,Off-campus resident,No,Yes,Yes,One-two,Senior,Twelve-eighteen,2,Neutral,Disagree,Strongly Disagree,Strongly Disagree,Disagree,No,2,0,1,1,2,4,2,3,2,1,1,2,0,9
+31,On-campus resident,Yes,Yes,Yes,One-two,First Year,Twelve-eighteen,1,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,No,1,1,1,1,2,1,2,5,2,1,1,1,0,10
+43,On-campus resident,No,Yes,Yes,One-two,First Year,Twelve-eighteen,5,Strongly Disagree,Strongly Disagree,Agree,Neutral,Strongly Disagree,Yes,1,0,1,1,2,1,2,1,1,4,3,1,1,10
+88,On-campus resident,No,Yes,Yes,One-two,Junior,Twelve-eighteen,1,Neutral,Neutral,Disagree,Strongly Disagree,Strongly Disagree,No,1,0,1,1,2,3,2,3,3,2,1,1,0,10
+3,On-campus resident,No,Yes,Yes,3,First Year,Twelve-eighteen,1,Agree,Neutral,Strongly Disagree,Strongly Disagree,Neutral,,1,0,1,1,3,1,2,4,3,1,1,3,,12
+59,On-campus resident,No,Yes,Yes,One-two,Sophomore,Twelve-eighteen,4,Neutral,Neutral,Neutral,Strongly Disagree,Disagree,No,1,0,1,1,2,2,2,3,3,3,1,2,0,12
+93,Off-campus resident,No,Yes,No,0,Junior,Twelve-eighteen,2,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Yes,2,0,1,0,1,3,2,4,2,1,1,5,1,13
+7,On-campus resident,Yes,Yes,Yes,One-two,First Year,Twelve-eighteen,5,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Disagree,,1,1,1,1,2,1,2,5,4,1,1,2,,13
+9,Off-campus resident,No,Yes,Yes,One-two,Junior,Twelve-eighteen,1,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,,2,0,1,1,2,3,2,5,5,1,1,1,,13
+13,Off-campus resident,No,Yes,Yes,One-two,Junior,Twelve-eighteen,1,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,,2,0,1,1,2,3,2,5,5,1,1,1,,13
+14,On-campus resident,Yes,Yes,Yes,One-two,First Year,Twelve-eighteen,5,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Disagree,,1,1,1,1,2,1,2,5,4,1,1,2,,13
+53,On-campus resident,Yes,Yes,Yes,One-two,First Year,Twelve-eighteen,2,Neutral,Disagree,Strongly Agree,Disagree,Strongly Disagree,Yes,1,1,1,1,2,1,2,3,2,5,2,1,1,13
+17,Off-campus resident,No,Yes,Yes,3,Senior,More than 18,1,Strongly Agree,Neutral,Disagree,Neutral,Strongly Disagree,Yes,2,0,1,1,3,4,3,5,3,2,3,1,1,14
+23,Off-campus resident,No,Yes,Yes,One-two,Sophomore,Twelve-eighteen,1,Agree,Disagree,Disagree,Neutral,Neutral,Yes,2,0,1,1,2,2,2,4,2,2,3,3,1,14
+25,Off-campus resident,No,Yes,Yes,3,Senior,More than 18,1,Strongly Agree,Neutral,Disagree,Neutral,Strongly Disagree,Yes,2,0,1,1,3,4,3,5,3,2,3,1,1,14
+26,Off-campus resident,No,Yes,Yes,One-two,Sophomore,Twelve-eighteen,1,Agree,Disagree,Disagree,Neutral,Neutral,Yes,2,0,1,1,2,2,2,4,2,2,3,3,1,14
+27,Off-campus resident,No,Yes,Yes,3,Senior,More than 18,1,Strongly Agree,Neutral,Disagree,Neutral,Strongly Disagree,Yes,2,0,1,1,3,4,3,5,3,2,3,1,1,14
+86,On-campus resident,Yes,Yes,Yes,3,Sophomore,More than 18,1,Agree,Neutral,Neutral,Disagree,Disagree,No,1,1,1,1,3,2,3,4,3,3,2,2,0,14
+28,Off-campus resident,No,Yes,No,0,Junior,Twelve-eighteen,3,Strongly Agree,Agree,Neutral,Disagree,Strongly Disagree,Yes,2,0,1,0,1,3,2,5,4,3,2,1,1,15
+4,On-campus resident,No,Yes,Yes,3,First Year,Twelve-eighteen,4,Agree,Disagree,Disagree,Agree,Neutral,,1,0,1,1,3,1,2,4,2,2,4,3,,15
+16,On-campus resident,No,Yes,Yes,3,Sophomore,Twelve-eighteen,4,Agree,Neutral,Neutral,Disagree,Neutral,Yes,1,0,1,1,3,2,2,4,3,3,2,3,1,15
+52,On-campus resident,No,Yes,Yes,3,Junior,Twelve-eighteen,3,Agree,Agree,Neutral,Disagree,Disagree,Yes,1,0,1,1,3,3,2,4,4,3,2,2,1,15
+90,On-campus resident,Yes,Yes,Yes,One-two,Sophomore,Twelve-eighteen,3,Agree,Agree,Disagree,Disagree,Neutral,Yes,1,1,1,1,2,2,2,4,4,2,2,3,1,15
+92,Off-campus resident,No,Yes,Yes,One-two,Junior,Twelve-eighteen,5,Agree,Neutral,Neutral,Neutral,Disagree,Yes,2,0,1,1,2,3,2,4,3,3,3,2,1,15
+34,On-campus resident,No,Yes,Yes,3,Sophomore,Twelve-eighteen,3,Strongly Agree,Neutral,Neutral,Neutral,Disagree,Yes,1,0,1,1,3,2,2,5,3,3,3,2,1,16
+44,On-campus resident,Yes,Yes,Yes,3,First Year,Twelve-eighteen,2,Agree,Agree,Neutral,Neutral,Disagree,No,1,1,1,1,3,1,2,4,4,3,3,2,0,16
+77,On-campus resident,No,Yes,Yes,One-two,First Year,Twelve-eighteen,2,Strongly Agree,Agree,Disagree,Agree,Strongly Disagree,Yes,1,0,1,1,2,1,2,5,4,2,4,1,1,16
+84,On-campus resident,No,Yes,Yes,3,First Year,Twelve-eighteen,2,Agree,Agree,Neutral,Agree,Strongly Disagree,Yes,1,0,1,1,3,1,2,4,4,3,4,1,1,16
+1,Off-campus resident,No,Yes,No,0,Senior,Twelve-eighteen,2,Agree,Agree,Neutral,Neutral,Neutral,,2,0,1,0,1,4,2,4,4,3,3,3,,17
+11,Off-campus resident,No,Yes,No,0,Senior,Twelve-eighteen,2,Agree,Agree,Neutral,Neutral,Neutral,,2,0,1,0,1,4,2,4,4,3,3,3,,17
+58,On-campus resident,No,Yes,No,0,First Year,Twelve-eighteen,1,Agree,Agree,Disagree,Neutral,Agree,Yes,1,0,1,0,1,1,2,4,4,2,3,4,1,17
+35,Off-campus resident,No,Yes,Yes,3,Senior,Twelve-eighteen,4,Strongly Agree,Agree,Neutral,Neutral,Disagree,Yes,2,0,1,1,3,4,2,5,4,3,3,2,1,17
+94,Off-campus resident,No,Yes,No,0,Junior,Twelve-eighteen,4,Agree,Agree,Neutral,Neutral,Agree,Yes,2,0,1,0,1,3,2,4,4,3,3,4,1,18
+2,On-campus resident,No,Yes,Yes,One-two,First Year,Twelve-eighteen,2,Strongly Agree,Agree,Neutral,Neutral,Neutral,,1,0,1,1,2,1,2,5,4,3,3,3,,18
+22,On-campus resident,No,Yes,Yes,One-two,First Year,Twelve-eighteen,3,Strongly Agree,Agree,Neutral,Neutral,Neutral,Yes,1,0,1,1,2,1,2,5,4,3,3,3,1,18
+45,On-campus resident,No,Yes,Yes,One-two,First Year,Twelve-eighteen,3,Strongly Agree,Neutral,Neutral,Agree,Neutral,Yes,1,0,1,1,2,1,2,5,3,3,4,3,1,18
+80,Off-campus resident,No,Yes,Yes,3,Senior,Twelve-eighteen,4,Strongly Agree,Agree,Neutral,Agree,Disagree,Yes,2,0,1,1,3,4,2,5,4,3,4,2,1,18
+87,Off-campus resident,No,Yes,Yes,3,Senior,Less than 12,3,Strongly Agree,Neutral,Agree,Neutral,Neutral,Yes,2,0,1,1,3,4,1,5,3,4,3,3,1,18
+18,On-campus resident,No,Yes,No,0,Junior,Twelve-eighteen,4,Strongly Agree,Strongly Agree,Neutral,Disagree,Agree,Yes,1,0,1,0,1,3,2,5,5,3,2,4,1,19
+19,On-campus resident,No,Yes,No,0,Sophomore,Twelve-eighteen,3,Agree,Disagree,Agree,Strongly Agree,Agree,Yes,1,0,1,0,1,2,2,4,2,4,5,4,1,19
+30,On-campus resident,No,Yes,No,0,Junior,Twelve-eighteen,2,Agree,Neutral,Agree,Neutral,Strongly Agree,Yes,1,0,1,0,1,3,2,4,3,4,3,5,1,19
+71,On-campus resident,No,Yes,No,0,First Year,Twelve-eighteen,5,Agree,Agree,Agree,Agree,Neutral,Yes,1,0,1,0,1,1,2,4,4,4,4,3,1,19
+5,On-campus resident,No,Yes,Yes,One-two,Sophomore,Twelve-eighteen,2,Strongly Agree,Agree,Neutral,Strongly Agree,Disagree,,1,0,1,1,2,2,2,5,4,3,5,2,,19
+6,Off-campus resident,No,Yes,Yes,One-two,Junior,Twelve-eighteen,4,Agree,Agree,Neutral,Agree,Agree,,2,0,1,1,2,3,2,4,4,3,4,4,,19
+21,On-campus resident,No,Yes,Yes,One-two,Sophomore,Twelve-eighteen,4,Neutral,Agree,Agree,Strongly Agree,Neutral,Yes,1,0,1,1,2,2,2,3,4,4,5,3,1,19
+65,Off-campus resident,No,Yes,Yes,One-two,Senior,Less than 12,3,Agree,Neutral,Agree,Agree,Agree,Yes,2,0,1,1,2,4,1,4,3,4,4,4,1,19
+32,On-campus resident,No,Yes,No,0,Junior,More than 18,5,Agree,Agree,Agree,Strongly Agree,Neutral,Yes,1,0,1,0,1,3,3,4,4,4,5,3,1,20
+79,Off-campus resident,Yes,Yes,No,0,Sophomore,Twelve-eighteen,2,Strongly Agree,Neutral,Disagree,Strongly Agree,Strongly Agree,Yes,2,1,1,0,1,2,2,5,3,2,5,5,1,20
+70,On-campus resident,No,Yes,Yes,One-two,First Year,Twelve-eighteen,4,Agree,Agree,Agree,Agree,Agree,Yes,1,0,1,1,2,1,2,4,4,4,4,4,1,20
+24,Off-campus resident,No,Yes,Yes,One-two,Junior,Twelve-eighteen,5,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Yes,2,0,1,1,2,3,2,5,4,5,5,2,1,21
+78,Off-campus resident,No,Yes,No,0,Senior,Twelve-eighteen,5,Strongly Agree,Agree,Agree,Agree,Strongly Agree,Yes,2,0,1,0,1,4,2,5,4,4,4,5,1,22
+0,On-campus resident,No,Yes,No,0,Sophomore,Twelve-eighteen,3,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,,1,0,1,0,1,2,2,5,5,5,5,3,,23
+8,On-campus resident,No,Yes,No,0,Senior,Twelve-eighteen,3,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,,1,0,1,0,1,4,2,5,5,5,5,3,,23
+10,On-campus resident,No,Yes,No,0,Sophomore,Twelve-eighteen,3,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,,1,0,1,0,1,2,2,5,5,5,5,3,,23
+15,On-campus resident,No,Yes,No,0,Sophomore,Twelve-eighteen,3,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,,1,0,1,0,1,2,2,5,5,5,5,3,,23
+29,On-campus resident,No,Yes,Yes,3,Senior,Twelve-eighteen,5,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Yes,1,0,1,1,3,4,2,5,5,4,5,4,1,23
+75,Off-campus resident,No,Yes,Yes,One-two,Junior,Twelve-eighteen,4,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Yes,2,0,1,1,2,3,2,4,5,5,4,5,1,23
+20,On-campus resident,No,Yes,No,0,Sophomore,Twelve-eighteen,4,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Yes,1,0,1,0,1,2,2,5,5,4,5,5,1,24
+91,Off-campus resident,No,Yes,Yes,3,Senior,Twelve-eighteen,5,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Yes,2,0,1,1,3,4,2,5,5,5,5,5,1,25
